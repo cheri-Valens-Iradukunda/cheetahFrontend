@@ -1,0 +1,19 @@
+.navbar .title{
+    text-transform: capitalize;
+    color: rgb(0, 32, 75);
+    background-color: rgb(236, 235, 235);
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar .form_div{
+    border-radius: 5px;
+    height: 19em;
+    width: 100%;
+}
+.navbar button{
+    width: 50%;
+    font-family: monospace;
+}
+
+.name_cell{
+    width: 3em;
+}

@@ -1,0 +1,26 @@
+.deleted_nav{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 3px 3px ;
+    /* position: fixed; */
+    /* width: 84%;
+    left: 16%; */
+    /* margin-bottom: 2em; */
+    
+}
+.deleted_nav .nav{
+    color: rgb(2, 14, 85);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 1px 5px;
+    margin: 4px
+}
+.deleted_nav .nav:hover{
+    color: rgb(3, 35, 180);
+    transition: 0.5s;
+    background-color: rgb(219, 217, 217);
+
+}
+.deleted_nav div div{
+    display: flex;
+}

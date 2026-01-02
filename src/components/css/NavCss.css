@@ -1,0 +1,62 @@
+.head_nav{
+    background-color: rgb(5, 177, 177);
+    /* position: fixed;
+    width: 100%; */
+}
+.head_nav h1{
+    font-size: 35px;
+    padding: 0px;
+    margin: 0px;
+    font-family: Aileron;
+    font-weight: bold;
+}
+.head_nav .nav_head{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
+.head_nav .nav_head p{
+    position: absolute;
+    right: 10px;
+    font-weight: bold;
+    background-color: rgb(6, 218, 218);
+    border: 1px solid rgb(141, 141, 248);
+    margin-top: 5px;
+    padding: 0px 5px;
+    cursor: pointer;
+    border-radius: 2.5px;
+}
+
+.navs{
+    background-color: rgb(1, 1, 49);
+    height: fit-content;
+}
+.navs .navItem{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding:5px 40px 5px 0px
+    /* background: green; */
+
+}
+.inNav div{
+    background: rgb(32, 37, 100);
+    margin-top: 10px;
+    padding:5px;
+}
+.inNav{
+    /* position: fixed; */
+}
+
+.mainClass{
+    /* position: fixed;
+    width: 83%;
+    margin-left: 0;
+    overflow-y: scroll;
+    height: 100%;
+    margin-left: 16%;
+    height: 95%; */
+    /* margin-top: 2em; */
+}

@@ -1,0 +1,26 @@
+.dropdown{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    background: linear-gradient(rgba(2, 21, 107, 0.445),rgba(1, 78, 78, 0.445));
+    backdrop-filter: blur(5px);
+    width: 100%;
+    height: 100%;
+}
+.dropdown .dropDiv{
+    margin-top: 4%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.452)
+
+}
+.dropdown .addProduct h2{
+    font-family: MingLiU_HKSCS-ExtB;
+}
+.dropdown .dropDiv .addProduct div:last-child{
+    display: flex;
+    justify-content: space-between;
+}
+.dropdown .addProduct{
+    padding:10px
+}
