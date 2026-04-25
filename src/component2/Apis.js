@@ -1,7 +1,7 @@
 export default class Api {
     static main = {
-        value: "http://localhost:8082",
-        // value: "https://cheetah.codeguru-pro.com:8082",
+        // value: "http://localhost:8082",
+        value: "https://cheetah.codeguru-pro.com:8082/api",
     }
     static delete = {
         value: Api.main.value + "/deleted"
