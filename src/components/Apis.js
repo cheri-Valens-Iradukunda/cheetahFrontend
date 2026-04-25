@@ -1,7 +1,7 @@
 export default class Api {
     static server = {
-      name: "http://localhost:8082",
-      // name: "https://cheetah.codeguru-pro.com:8082",
+      // name: "http://localhost:8082",
+      name: "https://cheetah.codeguru-pro.com:8082/api",
     };
     static product = {
       value: Api.server.name + "/product",
